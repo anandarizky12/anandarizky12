@@ -4,7 +4,7 @@
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandarizky12&show_icons=true&theme=react)](https://github.com/anandarizky12/buku-tamu.git">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandarizky12&show_icons=true&theme=react)">
 </div>
 
 <!---
