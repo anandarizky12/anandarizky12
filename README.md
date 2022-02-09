@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @anandarizky12
-- 📫 My Instagram Account @anandarizkyrm
+- 👋 Hi, I’m Ananda Rizky Ramadhan
+- 📫 My Instagram Account https://www.instagram.com/anandarizkyrm
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anandarizky12&show_icons=true&theme=react)](https://github.com/anandarizky12/buku-tamu.git)
