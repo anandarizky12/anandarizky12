@@ -4,7 +4,7 @@
 
 
 
-<div style="border : 1px solid gray ; padding : 10px ; display : flex , align-items : center, justify-content : center">
+<div style="border:1px solid gray;padding:10px;display:flex;align-item:center;justify-content:center">
   <h3>Most Used Language</h1>
   <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandarizky12&show_icons=true&theme=react">
