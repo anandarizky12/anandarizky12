@@ -4,8 +4,8 @@
 
 
 
-<div style="border:1px solid gray;padding:10px;display:flex;align-item:center;justify-content:center">
-  <table>
+<div style="width : 100vh ; border:1px solid gray;padding:10px;display:flex;align-item:center;justify-content:center">
+  <table style="width : 100%">
     <tr>
      <th>
       Most Used Language
