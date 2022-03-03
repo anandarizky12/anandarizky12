@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ananda Rizky Ramadhan
 - 📫 My Instagram Account <a href="https://www.instagram.com/anandarizkyrm">Click Here</a>
 
-  <table style=" width: 100%">
+  <table style=" width: 100%;border-collapse: collapse;">
     <tr>
      <th>
       Most Used Language
