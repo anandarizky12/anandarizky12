@@ -11,12 +11,10 @@
       Most Used Language
     </th>
     </tr>
-  
     <tr>
-      <td>
-       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandarizky12&show_icons=true&theme=react">
-      </td>
-    </tr>
+      <td> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandarizky12&show_icons=true&theme=react"></td>
+   </tr>
+  
   </table>
 </div>
 
