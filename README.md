@@ -6,11 +6,16 @@
 
 <div style="border:1px solid gray;padding:10px;display:flex;align-item:center;justify-content:center">
   <table>
-    <th>
+    <tr>
+     <th>
       Most Used Language
     </th>
+    </tr>
+  
     <tr>
+      <td>
        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandarizky12&show_icons=true&theme=react">
+      </td>
     </tr>
   </table>
 </div>
