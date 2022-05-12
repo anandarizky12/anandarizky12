@@ -1,4 +1,4 @@
-  <table style=" width: 100%;border-collapse: collapse;">
+<!--   <table style=" width: 100%;border-collapse: collapse;">
     <tr>
      <th>
       Most Used Language
@@ -8,8 +8,7 @@
       <td> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandarizky12&show_icons=true&theme=react"></td>
    </tr>
 
-  </table>
-
+  </table> -->
 
 <!---
 anandarizky12/anandarizky12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
