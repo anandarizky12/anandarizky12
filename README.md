@@ -1,4 +1,4 @@
-<!--   <table style=" width: 100%;border-collapse: collapse;">
+  <table style=" width: 100%;border-collapse: collapse;">
     <tr>
      <th>
       Most Used Language
@@ -9,7 +9,7 @@
    </tr>
 
   </table>
- -->
+
 
 <!---
 anandarizky12/anandarizky12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
